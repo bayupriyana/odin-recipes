@@ -16,6 +16,13 @@ a:any-link {
 h1 {
     text-align: center;
     color: aliceblue;
+    margin: 0px;
+    padding: 0px;
+    /* outline: 3px red solid; */
+}
+
+.judul-dua {
+    color: #ee3d2d;
 }
 
 h2 {
