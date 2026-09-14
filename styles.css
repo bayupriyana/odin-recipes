@@ -9,6 +9,10 @@ body {
     background-color: #1f1d1d;
 }
 
+a:any-link {
+    text-decoration: none;
+}
+
 h1 {
     text-align: center;
     color: aliceblue;
